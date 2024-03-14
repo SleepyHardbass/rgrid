@@ -19,7 +19,7 @@ return {
             get = self.get,
             set = self.set
         }
-        --[[ -- Example --
+        --[[ Example
             side == 8; exp == 3; mask == 7
             array = {[0] = 
                 0, 0, 0, 0, 0, 0, 0, 0,
